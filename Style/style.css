@@ -1,0 +1,102 @@
+
+#title {
+width: 100%;
+height:10%;
+padding-top: 1%;
+
+}
+#title > .c1 {
+font-family: "Special Elite";
+font-size: 45;
+color: white;
+text-align:center;
+}
+#title > .c2 {
+font-family: "Special Elite";
+font-size: 45;
+color: white;
+top:3%;
+right:26%;
+position:absolute;
+}
+
+#bulbs {
+text-align:center;
+
+width: 100%;
+height: 11%;
+}
+#bulbs > .bulb {
+height:100%;
+width:auto;
+}
+#menubar
+{
+width: 100%;
+display: inline;
+}
+#leftmenu
+{
+padding-top: 5%;
+width:10%;
+display:block;
+text-align:center;
+float:left;
+}
+#space{
+padding-top:5%;
+width:8%;
+float:left;
+}
+#switches
+{
+padding-top: 5%;
+width:7%;
+float:left;
+}
+#rightmenu {
+z-index: 1;
+}
+#text{
+padding-top:5%;
+width:55%;
+float:left;
+z-index:2;
+}
+#gear {
+position:absolute;
+height:45%;
+width:auto;
+right:0px;
+bottom:0px;
+
+}
+#text > #maintext
+{
+font-family: "Special Elite";
+font-size: 24;
+color: white;
+line-height: 1.2em;
+}
+
+#leftmenu > .left1 {
+font-family: "Special Elite";
+font-size: 25;
+color: white;
+
+}
+
+#switch1 {
+width: 60px;
+height: 60px;
+}
+#switch2 {
+width: 60px;
+height: 60px;
+}#switch3 {
+width: 60px;
+height: 60px;
+}#switch4 {
+width: 60px;
+height: 60px;
+}
